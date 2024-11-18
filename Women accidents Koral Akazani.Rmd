@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Women Accidents</title>
+</head>
+<body>
+  <h1>Welcome to Women Accidents Project</h1>
+  <p>This page showcases data on women-related accidents.</p>
 ---
 title: השפעת גורמים דמוגרפיים ותנאי דרך על כמות תאונות הדרכים בישראל בקרב נשים בשנת
   2022
@@ -1033,5 +1043,6 @@ testing, ANOVA and Kruskal-Wallis, Dirk Metzler, June 13, 2023 [Multiple testing
 
 * [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 </div>
-
+</body>
+</html>
 ***
